@@ -1,0 +1,6 @@
+{
+  "name": "Drip Music Royalty Calculator",
+  "description": "Music royalty calculator by Sound of Drip Music Tech Private Limited featuring streaming payout estimations across global countries and platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
